@@ -1,0 +1,26 @@
+{
+    "2026-01-12": {
+        "Data_Analysis_Class": {
+            "101": {
+                "name": "saravana",
+                "status": "Present"
+            },
+            "102": {
+                "name": "niresh",
+                "status": "Present"
+            },
+            "103": {
+                "name": "pandiyan",
+                "status": "Absent"
+            },
+            "104": {
+                "name": "ravi",
+                "status": "Absent"
+            },
+            "105": {
+                "name": "roshan",
+                "status": "Present"
+            }
+        }
+    }
+}
